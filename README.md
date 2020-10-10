@@ -1,5 +1,5 @@
 # bynogame-cards
-
+## Son halini sizin için derledim../dist/index.html
 ## Project setup
 ```
 npm install
